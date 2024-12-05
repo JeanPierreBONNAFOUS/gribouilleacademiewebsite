@@ -3,7 +3,7 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+# l'association est constitué de 3 membres du bureau
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : [gribouilleacademie](mailto:gribouille@academie.com)
+` 
