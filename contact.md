@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 # l'association est constitué de 3 membres du bureau
