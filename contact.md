@@ -7,7 +7,7 @@ in_menu: true
 
 ## Le Bureau. 
 
-* Président : Jean-Pierre ![me](https://framadrive.org/s/BBe8dbwMmx6D5qq)
+* Président : Jean-Pierre 
 * Secrétaire : Sylviane
 * Trésorière : Sophie
 
