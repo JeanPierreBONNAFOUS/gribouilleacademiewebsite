@@ -13,3 +13,17 @@ Pour ceux qui ne sont pas sur Paris, nous proposons les "Mercredi c'est gribouil
 ![Texte décrivant l'image]({% link images/Calendrier Gribouille 2024-2025.jpg %}) 
 
 [La page du mercredi](https://mercredicestgribouilli.carrd.co/) 
+
+# Nos prochains RDV
+
+## Février 2025
+
+Le 4 Février on fait coup double à la tribu [Paris 11, passage de la main d'Or](https://osm.org/go/0BOfRL2X9g--?layers=C).  
+Agile Tribu organise un meetup ["Convivial'Tribu"](https://www.meetup.com/agiletribu/events/305825773/) et on y sera pour cloturer la journée avec une ["Gribouilli party"](https://www.linkedin.com/events/7289581309746728961/comments/)
+
+
+## Mars 2025
+
+Nous serons présent au [sommet des décoincés du Crayon](https://www.decoincesducrayon.com/sommet-2025) le samedi 22 mars à l'heure du gouter pour deux heures de mini-atelier en ligne à jouer en famille.  
+
+Prendre votre billet avec notre [lien affilié](https://www.decoincesducrayon.com/sommet-2025/2hbrx) c'est faire un geste pour soutenir l'association. 
