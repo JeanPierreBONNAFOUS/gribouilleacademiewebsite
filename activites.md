@@ -9,8 +9,6 @@ On se retrouve en physique le 1er mardi du. mois. A la tribus paris 11
 
 Pour ceux qui ne sont pas sur Paris, nous proposons les "Mercredi c'est gribouilli" un RDV en ligne d'une heure 12h30 13h30.
 
-[Notre Google Agenda](https://calendar.google.com/calendar/embed?src=gribouilleacademie%40gmail.com&ctz=Europe%2FParis)
-
 ![Texte décrivant l'image]({% link images/Calendrier Gribouille 2024-2025.jpg %}) 
 
 [La page du mercredi](https://mercredicestgribouilli.carrd.co/) 
@@ -19,9 +17,10 @@ Pour ceux qui ne sont pas sur Paris, nous proposons les "Mercredi c'est gribouil
 
 ## Février 2025
 
-Le 4 Février on fait coup double à la tribu [Paris 11, passage de la main d'Or](https://osm.org/go/0BOfRL2X9g--?layers=C).  
+Le 4 février on fait coup double à la tribu [Paris 11, passage de la main d'Or](https://osm.org/go/0BOfRL2X9g--?layers=C).  
 Agile Tribu organise un meetup ["Convivial'Tribu"](https://www.meetup.com/agiletribu/events/305825773/) et on y sera pour cloturer la journée avec une ["Gribouilli party"](https://www.linkedin.com/events/7289581309746728961/comments/)
 
+Le 19 février, nous recevons [Leila Blal](https://www.linkedin.com/in/leilablal/)
 
 ## Mars 2025
 
