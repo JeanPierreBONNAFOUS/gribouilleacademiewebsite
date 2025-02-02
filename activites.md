@@ -9,6 +9,7 @@ On se retrouve en physique le 1er mardi du. mois. A la tribus paris 11
 
 Pour ceux qui ne sont pas sur Paris, nous proposons les "Mercredi c'est gribouilli" un RDV en ligne d'une heure 12h30 13h30.
 
+[Notre Google Agenda](https://calendar.google.com/calendar/embed?src=gribouilleacademie%40gmail.com&ctz=Europe%2FParis)
 
 ![Texte décrivant l'image]({% link images/Calendrier Gribouille 2024-2025.jpg %}) 
 
