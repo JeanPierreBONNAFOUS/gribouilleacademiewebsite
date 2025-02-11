@@ -22,6 +22,8 @@ Agile Tribu organise un meetup ["Convivial'Tribu"](https://www.meetup.com/agilet
 
 Le 19 février, nous recevons [Leila Blal](https://www.linkedin.com/in/leilablal/)
 
+Le 26 février, on met les doigts dans le Digital
+
 ## Mars 2025
 
 Nous serons présent au [sommet des décoincés du Crayon](https://www.decoincesducrayon.com/sommet-2025) le samedi 22 mars à l'heure du gouter pour deux heures de mini-atelier en ligne à jouer en famille.  
