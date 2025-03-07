@@ -26,6 +26,12 @@ Le 26 février, on met les doigts dans le Digital
 
 ## Mars 2025
 
+L'atelier du mercredi se prousuit sur notre Discord
+
+Le RDV du 11 est annulé. Pas de mercredi c'est Gribouilli pendant le sommet des décoincés du crayon.
+
 Nous serons présent au [sommet des décoincés du Crayon](https://www.decoincesducrayon.com/sommet-2025) le samedi 22 mars à l'heure du gouter pour deux heures de mini-atelier en ligne à jouer en famille.  
 
 Prendre votre billet avec notre [lien affilié](https://www.decoincesducrayon.com/sommet-2025/2hbrx) c'est faire un geste pour soutenir l'association. 
+
+Nous serons présents au [printemps agile](https://club-agile-normandie.fr/) a Caen le 25 mars pour une activité en fil rouge tout le long de la journée. 
